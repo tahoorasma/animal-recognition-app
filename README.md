@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Animal Recognition React App
+
+An image recognition system using python and deep learning, TensorFlow, framework.
+Model trained to recognize animals.
+The application tells animal name from the picture uploaded.
+
+## Preview
+
+![](example/1.png)
+![](example/2.png)
+![](example/3.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
